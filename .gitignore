@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+*.local
+.vscode/*
+!.vscode/extensions.json
+coverage
+
+# Ferramentas de agente (nao fazem parte do produto)
+.agents/
+skills-lock.json
